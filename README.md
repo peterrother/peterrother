@@ -7,5 +7,3 @@ I'm Peter, a web application developer and hacker 👨🏼‍💻 based in Cinci
 * Writing stuff on my [jekyll-powered blog](https://jekyllrb.com) at [peterrother.com](peterrother.com) ✍🏼
 * Which is also conveniently linked to [micro.blog](https://micro.blog/peterrother) 🔗
 * On [LinkedIn](https://www.linkedin.com/in/peter-rother/) at times 🕴🏼
-
-[![I voted](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)](https://www.vote.org/polling-place-locator/)
