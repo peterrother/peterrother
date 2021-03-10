@@ -4,6 +4,6 @@ I'm Peter, a web application developer and hacker 👨🏼‍💻 based in Cinci
 
 #### Where to Find Me 🌎
 
-* Writing stuff on my [jekyll-powered blog](https://jekyllrb.com) at [peterrother.com](peterrother.com) ✍🏼
+* Writing stuff on my [jekyll-powered blog](https://jekyllrb.com) at [peterrother.com](https://peterrother.com) ✍🏼
 * Which is also conveniently linked to [micro.blog](https://micro.blog/peterrother) 🔗
 * On [LinkedIn](https://www.linkedin.com/in/peter-rother/) at times 🕴🏼
